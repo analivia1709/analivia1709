@@ -9,8 +9,7 @@ Meu nome é Ana, moro em São Paulo, Brasil. Apaixonada por tecnologia, educaç�
 💬 Pode me chamar para conversar sobre tecnologia, desenvolvimento fullstack, experiências e melhores séries para fazer maratona
 
 📚Apaixonada por livros
-
-📫 Você pode me encontrar nas redes [![Linkedin Bedge](http://img.shields.io/badge/LinkedIn-blue?style-flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/ana-livia-tres-7a91aa1a3/
+📫 Você pode me encontrar nas redes 
 
 <!--
 **analivia1709/analivia1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
