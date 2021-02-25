@@ -9,6 +9,7 @@ Meu nome é Ana, moro em São Paulo, Brasil. Apaixonada por tecnologia, educaç�
 💬 Pode me chamar para conversar sobre tecnologia, desenvolvimento fullstack, experiências e melhores séries para fazer maratona
 
 📚Apaixonada por livros
+
 📫 Você pode me encontrar nas redes 
 
 <!--
