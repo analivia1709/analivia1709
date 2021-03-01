@@ -4,13 +4,12 @@ Meu nome é Ana, moro em São Paulo, Brasil. Apaixonada por tecnologia, educaç�
                                                                                                                          
 
 
-🚀 Estudando para me tornar uma dev fullstack                                                                                                                                 
-💁 Interessada em ajudar mulheres a ingressarem na área de tecnologia e desenvolvimento                                                                                          
-💬 Pode me chamar para conversar sobre tecnologia, desenvolvimento fullstack, experiências e melhores séries para fazer maratona                                               
-📚Apaixonada por livros                              
-📫 Você pode me encontrar nas redes:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-borotto/)](https://www.linkedin.com/in/ana-livia-tres-7a91aa1a3//)
-- 📫 How to reach me:   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tresliviaana@gmail.com)](mailto:tresliviaana@gmail.com) <a 
+- 🚀 Estudando para me tornar uma dev fullstack                                                                                                                                 
+- 💁 Interessada em ajudar mulheres a ingressarem na área de tecnologia e desenvolvimento                                                                                       
+- 💬 Pode me chamar para conversar sobre tecnologia, desenvolvimento fullstack, experiências e melhores séries para fazer maratona                                               
+- 📚Apaixonada por livros                              
+- 📫 Você pode me encontrar nas redes:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-borotto/)](https://www.linkedin.com/in/ana-livia-tres-7a91aa1a3//)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tresliviaana@gmail.com)](mailto:tresliviaana@gmail.com)
 
 # Tools and GitHub Stats <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="40px">
  
