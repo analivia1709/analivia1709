@@ -2,7 +2,6 @@
 Hello Word  👋
 
 <img src="https://media0.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif" width="260px">
-<img align="right" width="260px" src="https://media0.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif">
 
 
 
