@@ -1,4 +1,10 @@
+
 Hello Word  👋
+
+# Tools and GitHub Stats <img src="https://media0.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif" width="40px">
+<img align="right" width="260px" src=""https://media0.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif"">
+
+
 
 Meu nome é Ana, moro em São Paulo, Brasil. Apaixonada por tecnologia, educação, desenvolvimento full stack, inovação e possibilidades.
                                                                                                                          
