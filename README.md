@@ -17,7 +17,7 @@ Meu nome é Ana, moro em São Paulo, Brasil. Apaixonada por tecnologia, educaç�
 - 📫 Você pode me encontrar nas redes:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-livia-tres-7a91aa1a3/)](https://www.linkedin.com/in/ana-livia-tres-7a91aa1a3//)       [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tresliviaana@gmail.com)](mailto:tresliviaana@gmail.com)
 
-# Tools and GitHub Stats <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="40px">
+# Tools and GitHub Status <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="40px">
  
 
 ![Java](https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
